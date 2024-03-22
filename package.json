@@ -1,0 +1,41 @@
+{
+  "name": "quiplaceat",
+  "description": "Monorepo for WalletConnect",
+  "keywords": [
+    "wallet",
+    "quas",
+    "ethereum",
+    "excepturi",
+    "mobile",
+    "qrcode",
+    "web3",
+    "crypto",
+    "et",
+    "similique"
+  ],
+  "author": "MerlinMayer",
+  "license": "LGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SadyeSpinka/quiplaceat.git"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "2.20.0",
+    "@typescript-eslint/parser": "2.20.0",
+    "discord.js": "12.2.0",
+    "eslint": "5.16.0",
+    "eslint-config-prettier": "6.10.0",
+    "eslint-config-standard": "14.1.0",
+    "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-node": "11.0.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-react": "7.18.3",
+    "eslint-plugin-standard": "4.0.1",
+    "lerna": "3.20.2",
+    "npm-run-all": "4.1.5",
+    "prettier": "1.19.1",
+    "ts-node": "9.0.0"
+  },
+  "version": "1.0.0"
+}
